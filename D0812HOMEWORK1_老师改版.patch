@@ -1,0 +1,16 @@
+Index: src/main/java/com/iweb/servlet/CategoryListServlet.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/iweb/servlet/CategoryListServlet.java	(date 1660358243000)
++++ src/main/java/com/iweb/servlet/CategoryListServlet.java	(date 1660358304343)
+@@ -13,7 +13,7 @@
+ import java.util.List;
+ 
+ /** 默认负责查询所有分类的数据 并且将数据显示到listCategory.jsp页面上
+- * @author byx
++ * @author byx1
+  * @date 2022/8/11 16:24
+  */
+ @WebServlet(urlPatterns = {"/listCategory"})
